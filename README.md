@@ -15,9 +15,9 @@ epochs=50
 
 ![Alt text](images/model_eval.png?raw=true "Evaluations")
 
-Full-Connected NN scores 97.07
+## Full-Connected NN scores 97.07
 
-2 CNN + MaxPool Layer Scores 98.6
+## 2 CNN + MaxPool Layer Scores 98.6
 
 ![Alt text](images/topline_architecture.png?raw=true "Topline")
 
